@@ -22,7 +22,7 @@ TResNet.ipynb contains all the training and testing code for the TResnet model. 
 
 
 # Data: 
-https://drive.google.com/drive/folders/1lLMTYR6O1Z91YZhtJEbuS80WOOOavfdf?usp=sharing
+https://drive.google.com/drive/folders/1YyTYpuLAImMjEGOw94jezdf0m2XENVrX?usp=sharing
 
 Original_splitted_dataset folder contains data before processing.
 
